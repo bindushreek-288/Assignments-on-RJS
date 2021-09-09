@@ -1,1 +1,1 @@
-# Assignments-on-RJS
+# Assignments-on-React-cc- training
