@@ -1,2 +1,2 @@
-# Assignments-on-React-cc- training
+ Assignments-on-React-cc- training
 Cognitiveclouds
